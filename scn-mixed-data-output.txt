@@ -1,0 +1,3 @@
+string: Testing | string: Scanner | integer: 10 | double: 12.2 | string: one | boolean: true | string: two | boolean: false | 
+string: Second | string: line | integer: 11 | double: 13.2 | string: three | boolean: false | string: four | boolean: true | 
+string: Third | string: round | integer: 12 | double: 14.2 | string: five | boolean: true | string: six | boolean: false | 
