@@ -2,7 +2,7 @@
  * Purpose: Shows usage of class and ArrayList to count frequency of
  * character. The same implementation can be done using HashMap.
  * However, intentionally we used ArrayList and class to show
- * non-trivial application of Java classes.
+ * non-trivial application of Java classes .
  *
  * Author: GAN MOHIM.
  *
