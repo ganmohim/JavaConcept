@@ -6,7 +6,7 @@
  *
  * Author: GAN MOHIM.
  *
- * Copyright (c) 2019, Waterlootec, Canada. All rights reserved.
+ * Copyright (c) 2019, GAN MOHIM, Canada. All rights reserved.
  */
 package classes.charfreq;
 
