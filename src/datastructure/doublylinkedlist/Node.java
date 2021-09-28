@@ -1,5 +1,9 @@
 package datastructure.doublylinkedlist;
 
+/**
+Example of Linked list.
+*/
+
 public class Node<E> {
 	private E data;
 	private Node<E> prev, next;
